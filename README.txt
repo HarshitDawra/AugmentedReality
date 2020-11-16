@@ -4,6 +4,6 @@ Event name: Dot Design
 
 Topic:  Augmented Reality
 
-Note: Please open the Webpage named as "main", as it is our homepage.
+Note: Please open the Webpage named as "index", as it is our homepage.
 
 Name of participants: Harshit Dawra, Dhruv Vishrant 
